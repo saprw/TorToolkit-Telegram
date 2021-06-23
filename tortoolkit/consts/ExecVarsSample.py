@@ -5,20 +5,20 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "61efb0a9a7d2417067aa71261bbfe353"
+        API_ID = 5927118
+        BOT_TOKEN = "1816024917:AAG8y1nUegzQ6XwCFy441tJn22noGjW_o0k"
+        BASE_URL_OF_BOT = "http://t.me/titanosaurus_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [-1001485531139]
+        OWNER_ID = 1342187641
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = False
+        GD_INDEX_URL = True
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
