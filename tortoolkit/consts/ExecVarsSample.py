@@ -36,7 +36,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+        DB_URI = "postgres://frhvtxiavcvibb:20f780dd0a0ee4ec8a4e710901698b013a079729541025941623a0d30699473f@ec2-34-193-101-0.compute-1.amazonaws.com:5432/df825tl3n8n1e0"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
